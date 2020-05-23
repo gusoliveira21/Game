@@ -1,4 +1,4 @@
-## MiniGame
+## 👾 MiniGame
 <i>Avaliação de meio de ano, Desenvolvimento de jogos com Unity.</i>
 <ul>
  <li>O personagem é um boneco mágico, cujo sua alma foi fragmentada em dez partes.</li>
