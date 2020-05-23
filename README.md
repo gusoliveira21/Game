@@ -12,11 +12,10 @@
 
 
 
-
 <p align="center">
-<img src='https://user-images.githubusercontent.com/42920754/81053568-cfd01700-8eb4-11ea-8585-aa7aea616a5a.PNG' width='45%'>
-<img src='https://user-images.githubusercontent.com/42920754/81053580-d3fc3480-8eb4-11ea-9a2b-098ef323459a.PNG' width='49%'>
-<img src='https://user-images.githubusercontent.com/42920754/81053579-d3fc3480-8eb4-11ea-82b7-d4ddaaa7d7eb.PNG' width='60%'>
+<img src='https://user-images.githubusercontent.com/42920754/81053568-cfd01700-8eb4-11ea-8585-aa7aea616a5a.PNG'>
+<img src='https://user-images.githubusercontent.com/42920754/81053580-d3fc3480-8eb4-11ea-9a2b-098ef323459a.PNG'>
+<img src='https://user-images.githubusercontent.com/42920754/81053579-d3fc3480-8eb4-11ea-82b7-d4ddaaa7d7eb.PNG'>
 <p/>
 
 ## :memo: License
