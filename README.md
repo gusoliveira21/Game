@@ -7,9 +7,9 @@
  <li>Cuidado para não cair, esqueletos gigantes rondam o solo.</li>
 </ul>
 
-[ ] Precisa-se melhorar a dinâmica e mecânica do jogo. <br>
-[ ] Precisa-se melhorar as colisões com as rampas.<br>
-[ ] Precisa-se adaptar colisões com os esqueletos.<br>
+- [ ] Precisa-se melhorar a dinâmica e mecânica do jogo. <br>
+- [ ] Precisa-se melhorar as colisões com as rampas.<br>
+- [ ] Precisa-se adaptar colisões com os esqueletos.<br>
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/42920754/81053568-cfd01700-8eb4-11ea-8585-aa7aea616a5a.PNG'>
